@@ -3,4 +3,6 @@ Happy!
 Creating a new branch is quick and simple.
 Yeah!
 Oh my god!
+That's good!
 Oh no!
+
